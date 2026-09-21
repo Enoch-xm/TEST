@@ -1,9 +1,9 @@
 {
-    "id": "yourname.yourmodname",
-    "name": "Your Mod Name",
+    "id": "Enoch-xm.TEST",
+    "name": "TEST",
     "version": "0.1.0",
-    "authors": "Your Name",
-    "description": "This is a Rain World mod template",
+    "authors": "Enoch-xm",
+    "description": "my first Rain World mod",
     "requirements": [],
     "requirements_names": [],
     "tags": [],
